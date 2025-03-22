@@ -14,7 +14,6 @@ public class NumFinder {
                 largest = n;
         }
     }
-
     public int getSmallest () {
         return smallest;
     }
